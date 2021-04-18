@@ -10,3 +10,8 @@ collection of links i found on internet that i want to look on someday
 ## Linux
 https://www.youtube.com/channel/UCtNrldmJCRNuhIoYRKiKM7g <br>
 
+
+
+### pyhton GUI frameworks
+https://github.com/r0x0r/pywebview <br>
+https://github.com/flexxui/flexx/ <br>
