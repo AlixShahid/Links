@@ -2,12 +2,13 @@
 collection of links i found on internet that i want to look on someday
 
 
-## https://reposhub.com/
+https://reposhub.com/ <br>
+https://learn-anything.xyz/ <br>
+https://antongerdelan.net/ <br>
 
 
-### https://learn-anything.xyz/ <br>
-### https://antongerdelan.net/    <br>
-
+## Computer Courses
+https://www.cs.washington.edu/education/courses<br>
 
 ## Linux
 https://www.youtube.com/channel/UCtNrldmJCRNuhIoYRKiKM7g <br>
