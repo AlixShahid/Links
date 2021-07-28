@@ -18,3 +18,7 @@ https://www.youtube.com/channel/UCtNrldmJCRNuhIoYRKiKM7g <br>
 ### pyhton GUI frameworks
 https://github.com/r0x0r/pywebview <br>
 https://github.com/flexxui/flexx/ <br>
+
+
+## OpenGL
+https://www.youtube.com/playlist?list=PLA0dXqQjCx0S04ntJKUftl6OaOgsiwHjA
