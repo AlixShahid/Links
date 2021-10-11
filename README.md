@@ -25,3 +25,7 @@ https://www.youtube.com/playlist?list=PLA0dXqQjCx0S04ntJKUftl6OaOgsiwHjA <br>
 
 ## c/c++
 https://www.youtube.com/channel/UCRWXAQsN5S3FPDHY4Ttq1Xg <br>
+
+
+## Machine Learning
+https://www.youtube.com/playlist?list=PLvMRWNpDTNwQZkB840U2d9JFXcA8spGMF
