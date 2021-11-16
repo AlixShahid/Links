@@ -28,4 +28,8 @@ https://www.youtube.com/channel/UCRWXAQsN5S3FPDHY4Ttq1Xg <br>
 
 
 ## Machine Learning
-https://www.youtube.com/playlist?list=PLvMRWNpDTNwQZkB840U2d9JFXcA8spGMF
+https://www.youtube.com/playlist?list=PLvMRWNpDTNwQZkB840U2d9JFXcA8spGMF <br>
+
+
+## Lua
+https://en.terminalroot.com.br/definitive-guide-to-lua-for-beginners/ <br>
