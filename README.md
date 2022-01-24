@@ -26,6 +26,9 @@ https://www.youtube.com/playlist?list=PL-K0viiuJ2RctP5nlJlqmHGeh66-GOZR_ <br>
 
 ## OpenGL
 https://www.youtube.com/playlist?list=PLA0dXqQjCx0S04ntJKUftl6OaOgsiwHjA <br>
+https://ogldev.org/ <br>
+https://antongerdelan.net/opengl/ <br>
+http://www.opengl-tutorial.org/ <br>
 
 ## c/c++
 https://www.youtube.com/channel/UCRWXAQsN5S3FPDHY4Ttq1Xg <br>
