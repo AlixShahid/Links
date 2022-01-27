@@ -34,6 +34,7 @@ http://www.opengl-tutorial.org/ <br>
 https://www.youtube.com/channel/UCRWXAQsN5S3FPDHY4Ttq1Xg <br>
 https://www.youtube.com/playlist?list=PLhy9gU5W1fvUND_5mdpbNVHC1WCIaABbP <br>
 https://www.youtube.com/c/CodeTechandTutorials <br>
+https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4pM7cZTe48udxbI1fR0zbM <br>
 
 ### Cmake
 https://www.youtube.com/watch?v=ffwB60oKr-w&list=PL8i3OhJb4FNV10aIZ8oF0AA46HgA2ed8g <br>
