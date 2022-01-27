@@ -19,6 +19,9 @@ https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d
 ## computer network
 https://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html <br>
 
+## computer graphic
+https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E <br>
+
 
 ### pyhton GUI frameworks
 https://github.com/r0x0r/pywebview <br>
