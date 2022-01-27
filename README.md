@@ -13,6 +13,8 @@ https://www.cs.washington.edu/education/courses<br>
 ## Linux
 https://www.youtube.com/channel/UCtNrldmJCRNuhIoYRKiKM7g <br>
 
+## Computer System
+https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22 <br>
 
 
 ### pyhton GUI frameworks
