@@ -22,6 +22,8 @@ https://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_v
 ## computer graphic
 https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E <br>
 
+## Algorithm
+https://www.youtube.com/c/WilliamFiset-videos/playlists <br>
 
 ### pyhton GUI frameworks
 https://github.com/r0x0r/pywebview <br>
