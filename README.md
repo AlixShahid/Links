@@ -25,6 +25,9 @@ https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E <br>
 ## Algorithm
 https://www.youtube.com/c/WilliamFiset-videos/playlists <br>
 
+## Cryptography
+https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos
+
 ### pyhton GUI frameworks
 https://github.com/r0x0r/pywebview <br>
 https://github.com/flexxui/flexx/ <br>
