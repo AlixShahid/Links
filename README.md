@@ -30,6 +30,10 @@ https://github.com/r0x0r/pywebview <br>
 https://github.com/flexxui/flexx/ <br>
 
 
+## Networking
+https://www.youtube.com/watch?v=V1CxV6Vg7_U&list=PLW8bTPfXNGdAZIKv-y9v_XLXtEqrPtntm <br>
+
+
 
 ## Game Dev
 https://www.youtube.com/playlist?list=PL-K0viiuJ2RctP5nlJlqmHGeh66-GOZR_ <br>
