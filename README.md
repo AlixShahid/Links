@@ -20,9 +20,6 @@ https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d
 ## computer network
 https://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html <br>
 
-## computer graphic
-https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E <br>
-
 ## Algorithm
 https://www.youtube.com/c/WilliamFiset-videos/playlists <br>
 
@@ -42,6 +39,10 @@ https://www.youtube.com/channel/UCyLNhHSiEVkVwPSFKxJAfSA
 
 ## Game Dev
 https://www.youtube.com/playlist?list=PL-K0viiuJ2RctP5nlJlqmHGeh66-GOZR_ <br>
+
+## computer graphic
+https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E <br>
+https://lazyfoo.net/tutorials/SDL/ <br>
 
 ## OpenGL
 https://www.youtube.com/playlist?list=PLA0dXqQjCx0S04ntJKUftl6OaOgsiwHjA <br>
