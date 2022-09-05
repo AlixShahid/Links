@@ -58,6 +58,9 @@ https://www.youtube.com/c/CodeTechandTutorials <br>
 https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4pM7cZTe48udxbI1fR0zbM <br>
 https://www.youtube.com/channel/UC4ZfpU7QX3iSatYB2GDum5Q <br>
 
+## Embeded
+https://www.youtube.com/playlist?list=PLCWI37npNedF3XqEAfSmBickGZqROYSbF <br>
+
 ### create web-server
 https://www.youtube.com/playlist?list=PLbtjxiXev6lrSovYDdI2xHVcw8Gk2J3Zw <br>
 
