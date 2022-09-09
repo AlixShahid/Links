@@ -6,6 +6,9 @@ https://reposhub.com/ <br>
 https://learn-anything.xyz/ <br>
 https://antongerdelan.net/ <br>
 
+## Internals
+### git
+https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/ <br>
 
 ## Computer Courses
 https://www.cs.washington.edu/education/courses<br>
