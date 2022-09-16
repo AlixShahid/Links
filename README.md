@@ -67,6 +67,9 @@ https://www.youtube.com/channel/UC4ZfpU7QX3iSatYB2GDum5Q <br>
 ## Embeded
 https://www.youtube.com/playlist?list=PLCWI37npNedF3XqEAfSmBickGZqROYSbF <br>
 
+## Microprocessor
+https://technobyte.org/microprocessors-course-8085/ <br>
+
 ### create web-server
 https://www.youtube.com/playlist?list=PLbtjxiXev6lrSovYDdI2xHVcw8Gk2J3Zw <br>
 
