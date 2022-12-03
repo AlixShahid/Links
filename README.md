@@ -38,7 +38,8 @@ https://github.com/flexxui/flexx/ <br>
 https://www.youtube.com/watch?v=V1CxV6Vg7_U&list=PLW8bTPfXNGdAZIKv-y9v_XLXtEqrPtntm <br>
 
 ## Web Dev
-https://www.youtube.com/channel/UCyLNhHSiEVkVwPSFKxJAfSA
+https://www.youtube.com/channel/UCyLNhHSiEVkVwPSFKxJAfSA <br>
+https://web.dev/learn/design/ <br>
 
 ## Game Dev
 https://www.youtube.com/playlist?list=PL-K0viiuJ2RctP5nlJlqmHGeh66-GOZR_ <br>
