@@ -12,6 +12,7 @@ https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/ <b
 
 ## Computer Courses
 https://www.cs.washington.edu/education/courses<br>
+https://news.ycombinator.com/item?id=35130975<br>
 
 ## Linux
 https://www.youtube.com/channel/UCtNrldmJCRNuhIoYRKiKM7g <br>
