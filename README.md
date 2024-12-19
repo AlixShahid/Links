@@ -9,6 +9,8 @@ https://antongerdelan.net/ <br>
 ## Internals
 ### git
 https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/ <br>
+### postgresql
+https://www.interdb.jp/pg/
 
 ## Computer Courses
 https://www.cs.washington.edu/education/courses<br>
