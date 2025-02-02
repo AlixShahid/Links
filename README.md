@@ -22,6 +22,7 @@ https://www.youtube.com/playlist?list=PLWK00SLo2KcQi1hlP2_allMWeG19MkQa7 <br>
 
 ## Computer System
 https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22 <br>
+https://agner.org/digital/digital_electronics_agner_fog.pdf <br>
 
 ## computer network
 https://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html <br>
