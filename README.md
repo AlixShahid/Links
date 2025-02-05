@@ -26,6 +26,7 @@ https://agner.org/digital/digital_electronics_agner_fog.pdf <br>
 
 ## computer network
 https://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html <br>
+https://beej.us/guide/bgnet/html/ <br>
 
 ## Algorithm
 https://www.youtube.com/c/WilliamFiset-videos/playlists <br>
