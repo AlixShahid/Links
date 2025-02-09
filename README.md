@@ -16,6 +16,9 @@ https://www.interdb.jp/pg/
 https://www.cs.washington.edu/education/courses<br>
 https://news.ycombinator.com/item?id=35130975<br>
 
+## Blockchain
+https://docs.google.com/presentation/d/1nPDGVwVOMpdo103jitZjKx2tD-F54h4W4c7tqdV7h44/edit#slide=id.g329b7f53ac4_0_52 <br>
+
 ## Linux
 https://www.youtube.com/channel/UCtNrldmJCRNuhIoYRKiKM7g <br>
 https://www.youtube.com/playlist?list=PLWK00SLo2KcQi1hlP2_allMWeG19MkQa7 <br>
