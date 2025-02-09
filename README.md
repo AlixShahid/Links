@@ -90,6 +90,8 @@ https://www.youtube.com/playlist?list=PLvMRWNpDTNwQZkB840U2d9JFXcA8spGMF <br>
 https://en.terminalroot.com.br/definitive-guide-to-lua-for-beginners/ <br>
 
 ## Math
+https://seeing-theory.brown.edu/ <br>
 
 ### calculus
 https://www.youtube.com/channel/UC5N5pRddyicAX1QJyJjIIdg <br>
+
