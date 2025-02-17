@@ -16,6 +16,7 @@ https://www.interdb.jp/pg/
 https://www.cs.washington.edu/education/courses<br>
 https://news.ycombinator.com/item?id=35130975<br>
 https://www.youtube.com/playlist?list=PL9o9lNrP1luVQoR25mdOPP2yKyhNLLK0W <br>
+https://cslab.pepperdine.edu/warford/index.html <br>
 
 ## Compiler
 https://www.youtube.com/playlist?list=PLUDlas_Zy_qC7c5tCgTMYq2idyyT241qs <br>
