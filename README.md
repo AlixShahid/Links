@@ -23,6 +23,9 @@ https://www.youtube.com/playlist?list=PLUDlas_Zy_qC7c5tCgTMYq2idyyT241qs <br>
 https://www.youtube.com/playlist?list=PLSq9OFrD2Q3ChEc_ejnBcO5u9JeT0ufkg <br>
 https://www.youtube.com/playlist?list=PLSq9OFrD2Q3C_R0VqKNG_yVzIL3JkiUrB <br>
 
+## Emulator
+https://siriusdemon.github.io/Rare/index.html <br>
+
 
 ## Blockchain
 https://docs.google.com/presentation/d/1nPDGVwVOMpdo103jitZjKx2tD-F54h4W4c7tqdV7h44/edit#slide=id.g329b7f53ac4_0_52 <br>
