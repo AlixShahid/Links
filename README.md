@@ -39,6 +39,11 @@ https://learnmeabitcoin.com/
 https://docs.google.com/presentation/d/1nPDGVwVOMpdo103jitZjKx2tD-F54h4W4c7tqdV7h44/edit#slide=id.g329b7f53ac4_0_52 <br>
 https://roadmap.sh/r/embed?id=659a4664ae22c12523369370 <br>
 
+### Polkadot
+
+https://dotcodeschool.com/courses/rust-state-machine
+https://dotcodeschool.com/courses/substrate-kitties/lesson/introduction
+
 ## Linux
 
 https://www.youtube.com/channel/UCtNrldmJCRNuhIoYRKiKM7g <br>
