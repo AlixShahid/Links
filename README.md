@@ -23,15 +23,23 @@ https://news.ycombinator.com/item?id=35130975<br>
 https://www.youtube.com/playlist?list=PL9o9lNrP1luVQoR25mdOPP2yKyhNLLK0W <br>
 https://cslab.pepperdine.edu/warford/index.html <br>
 
-## Compiler
+## Compiler and Interpreter 
+https://rust-hosted-langs.github.io/book/chapter-interp-compiler-design.html
+https://youtube.com/playlist?list=PLUDlas_Zy_qC7c5tCgTMYq2idyyT241qs <br>
+https://youtube.com/playlist?list=PLSq9OFrD2Q3ChEc_ejnBcO5u9JeT0ufkg <br>
+https://youtube.com/playlist?list=PLSq9OFrD2Q3C_R0VqKNG_yVzIL3JkiUrB <br>
 
-https://www.youtube.com/playlist?list=PLUDlas_Zy_qC7c5tCgTMYq2idyyT241qs <br>
-https://www.youtube.com/playlist?list=PLSq9OFrD2Q3ChEc_ejnBcO5u9JeT0ufkg <br>
-https://www.youtube.com/playlist?list=PLSq9OFrD2Q3C_R0VqKNG_yVzIL3JkiUrB <br>
-
-## Emulator
-
+### Virtual Machine (VM) & Emulator
 https://siriusdemon.github.io/Rare/index.html <br>
+https://dogeystamp.com/lc3/ <br>
+https://rodrigoaraujo.me/posts/lets-build-an-lc-3-virtual-machine/ <br>
+https://luissoares.dev/building-a-vm-instruction-set-in-rust/ <br>
+https://notes.eatonphil.com/lua-in-rust.html <br>
+https://jmeiners.com/lc3-vm/ <br>
+https://www.nervos.org/knowledge-base/comparing_blockchain_virtual_machines <br>
+https://youtube.com/watch?v=OjaAToVkoTw <br>
+https://youtube.com/watch?v=oArXOAhzOdY <br>
+https://youtube.com/playlist?list=PLUkZG7_4JtUL22HycWYR_J-1xJo7rQGhr <br>
 
 ## Blockchain
 
@@ -43,6 +51,7 @@ https://roadmap.sh/r/embed?id=659a4664ae22c12523369370 <br>
 
 https://dotcodeschool.com/courses/rust-state-machine
 https://dotcodeschool.com/courses/substrate-kitties/lesson/introduction
+https://bootcamp.openguild.wtf/ 
 
 ## Linux
 
