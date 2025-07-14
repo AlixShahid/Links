@@ -149,6 +149,12 @@ https://www.youtube.com/watch?v=ffwB60oKr-w&list=PL8i3OhJb4FNV10aIZ8oF0AA46HgA2e
 
 https://www.youtube.com/playlist?list=PLvMRWNpDTNwQZkB840U2d9JFXcA8spGMF <br>
 
+## Programming Languages
+
+### Rust
+https://blog.pnkfx.org/blog/2015/10/27/gc-and-rust-part-0-how-does-gc-work/ <br>
+https://blog.pnkfx.org/blog/2022/05/12/linking-rust-crates/ <br>
+
 ## Lua
 
 https://en.terminalroot.com.br/definitive-guide-to-lua-for-beginners/ <br>
