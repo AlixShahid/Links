@@ -24,6 +24,7 @@ https://www.cs.washington.edu/education/courses<br>
 https://news.ycombinator.com/item?id=35130975<br>
 https://www.youtube.com/playlist?list=PL9o9lNrP1luVQoR25mdOPP2yKyhNLLK0W <br>
 https://cslab.pepperdine.edu/warford/index.html <br>
+https://www.cs.columbia.edu/~sedwards/ <br>
 
 ## Compiler and Interpreter 
 https://rust-hosted-langs.github.io/book/chapter-interp-compiler-design.html
@@ -50,6 +51,10 @@ https://takenobu-hs.github.io/downloads/haskell_ghc_reading_guide.pdf <br>
 https://takenobu-hs.github.io/downloads/haskell_lazy_evaluation.pdf <br>
 https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf <br>
 https://takenobu-hs.github.io/downloads/WebAssembly_illustrated.pdf <br>
+
+### Embeded System
+https://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/ <br>
+https://www.cs.columbia.edu/~sedwards/classes/2018/4115-fall/ <br>
 
 ## Blockchain
 
