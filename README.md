@@ -46,6 +46,7 @@ https://youtube.com/watch?v=oArXOAhzOdY <br>
 https://youtube.com/playlist?list=PLUkZG7_4JtUL22HycWYR_J-1xJo7rQGhr <br>
 
 ### CPU
+https://chipdb.org <br>
 https://github.com/takenobu-hs <br>
 https://takenobu-hs.github.io/downloads/haskell_ghc_illustrated.pdf <br>
 https://takenobu-hs.github.io/downloads/haskell_ghc_reading_guide.pdf <br>
